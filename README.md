@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Comfort Udevbulu
-- 👋 I am a Student at Udacity
+- 👋 I did a Data Analyst Nano Degree Program at Udacity
 - 👀 I’m interested in Data Analysis, Python, Tableau and Power Bi
 - 🌱 I’m currently learning to become a Full Stack developer
 - 💞️ I’m looking to collaborate on any relevant topics and discussion that can aid my growth
